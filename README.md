@@ -34,7 +34,7 @@ The original application displayed Apple frameworks in a `LazyVGrid`. The goal o
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/20976ffa-b955-4f08-b334-52e01ca01b82" width="300" />
-  <img src="https://github.com/user-attachments/assets/7605e8eb-0785-44c8-b539-c6adaeaf6e03" width="300" />
-  <img src="https://github.com/user-attachments/assets/fd450732-7fc9-4d46-b51b-0643c987b342" width="300" />
+  <img src="https://github.com/user-attachments/assets/20976ffa-b955-4f08-b334-52e01ca01b82" width="200" />
+  <img src="https://github.com/user-attachments/assets/7605e8eb-0785-44c8-b539-c6adaeaf6e03" width="200" />
+  <img src="https://github.com/user-attachments/assets/fd450732-7fc9-4d46-b51b-0643c987b342" width="200" />
 </p>
